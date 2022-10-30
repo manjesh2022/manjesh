@@ -18,6 +18,7 @@ Jyothy Institute of Technology, Bangalore
 
 - [AWS Academy Cloud Foundations](https://www.credly.com/badges/dd06f921-24c5-4a54-a22b-4287bad83d15/linked_in_profile)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042)
+- [Salesforce Skill Starter](https://trailblazer.me/id/manjeshm)
 
 ### Projects
 
