@@ -16,7 +16,7 @@ Jyothy Institute of Technology, Bangalore
 
 ### Achievements 
 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/cdd880a5-01fc-4b2d-84c1-8efbdfb379a4/public_url" target=”_blank” rel="noopener noreferrer)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/cdd880a5-01fc-4b2d-84c1-8efbdfb379a4/public_url)
 - [AWS Academy Cloud Foundations](https://www.credly.com/badges/dd06f921-24c5-4a54-a22b-4287bad83d15/linked_in_profile)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042)
 - [Salesforce Skill Starter](https://trailblazer.me/id/manjeshm)
